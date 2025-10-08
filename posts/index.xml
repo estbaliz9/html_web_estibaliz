@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Aprende con Estíbaliz</title>
-    <link>https://tudominio.com/posts/</link>
+    <link>https://aprendeconestibaliz.netlify.app/posts/</link>
     <description>Recent content in Posts on Aprende con Estíbaliz</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 02 Oct 2025 12:19:51 +0200</lastBuildDate>
-    <atom:link href="https://tudominio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aprendeconestibaliz.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>INSTALACIÓN MARIADB EN DEBIAN 13</title>
-      <link>https://tudominio.com/posts/primerpost/</link>
+      <link>https://aprendeconestibaliz.netlify.app/posts/primerpost/</link>
       <pubDate>Thu, 02 Oct 2025 12:19:51 +0200</pubDate>
-      <guid>https://tudominio.com/posts/primerpost/</guid>
+      <guid>https://aprendeconestibaliz.netlify.app/posts/primerpost/</guid>
       <description>&lt;h2 id=&#34;1-actualizamos-repositorios-e-instalamos-actualizaciones&#34;&gt;1. Actualizamos repositorios e instalamos actualizaciones.&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Así actualizamos los repositorios: &lt;code&gt;sudo apt update&lt;/code&gt;&lt;/li&gt;
@@ -32,9 +32,9 @@
     </item>
     <item>
       <title>INSTALACIÓN MONGO EN DEBIAN 13</title>
-      <link>https://tudominio.com/posts/tercerpost/</link>
+      <link>https://aprendeconestibaliz.netlify.app/posts/tercerpost/</link>
       <pubDate>Thu, 02 Oct 2025 12:19:51 +0200</pubDate>
-      <guid>https://tudominio.com/posts/tercerpost/</guid>
+      <guid>https://aprendeconestibaliz.netlify.app/posts/tercerpost/</guid>
       <description>&lt;h2 id=&#34;1-actualizamos-repositorios-y-hacemos-las-actualizaciones-de-los-programas-necesarios&#34;&gt;1. Actualizamos repositorios y hacemos las actualizaciones de los programas necesarios:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;sudo apt update&lt;/code&gt;&lt;/li&gt;
@@ -57,9 +57,9 @@
     </item>
     <item>
       <title>INSTALACIÓN POSTGRESQL EN DEBIAN 13</title>
-      <link>https://tudominio.com/posts/segundopost/</link>
+      <link>https://aprendeconestibaliz.netlify.app/posts/segundopost/</link>
       <pubDate>Thu, 02 Oct 2025 12:19:51 +0200</pubDate>
-      <guid>https://tudominio.com/posts/segundopost/</guid>
+      <guid>https://aprendeconestibaliz.netlify.app/posts/segundopost/</guid>
       <description>&lt;h2 id=&#34;1-actualizamos-repositorios-y-hacemos-las-actualizaciones-de-los-programas-necesarios&#34;&gt;1. Actualizamos repositorios y hacemos las actualizaciones de los programas necesarios:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;sudo apt update&lt;/code&gt;&lt;/li&gt;

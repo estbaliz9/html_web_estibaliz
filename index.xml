@@ -31,7 +31,7 @@
 &lt;p&gt;&lt;code&gt;sudo mariadb -u usuario -p &lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>INSTALACIÓN MONGO EN DEBIAN 13</title>
+      <title>INSTALACIÓN MONGODB EN DEBIAN 13</title>
       <link>https://aprendeconestibaliz.netlify.app/posts/tercerpost/</link>
       <pubDate>Thu, 02 Oct 2025 12:19:51 +0200</pubDate>
       <guid>https://aprendeconestibaliz.netlify.app/posts/tercerpost/</guid>
